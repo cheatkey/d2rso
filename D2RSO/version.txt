@@ -1,0 +1,22 @@
+﻿V1.0.5
++ Fixed controls hook crashes
++ Fixed skill buttons display after loading previously saved config
+
+V1.0.4
++ Support additional mouse buttons
+
+V1.0.3
++ Added skill profiles
++ Fixed select key values
+
+V1.0.2
++ Added option to start tracking on app launch
++ Added experimental GamePad support
++ Limited app to one instance
++ Fixed numbers and mod key press recognition
+
+V1.0.1
++ Added options window with some tracker settings
+
+V1.0.0
++ Initial release

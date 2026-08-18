@@ -1,0 +1,78 @@
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Armageddon.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Battle Command.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Battle Cry.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Battle Orders.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Blade Sentinel.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Blade Shield.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Bone Prison.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Bone Wall.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Burst of Speed.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Cloak of Shadows.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Conversion.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Decoy.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Enchant.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\EnergyShield.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Fade.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Frenzy.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\FrozenArmor.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Grim Ward.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\HolyShield.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Howl.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Hurricane.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Hydra.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Inner Sight.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_0.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_10.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_12.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_20.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_22.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_30.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_40.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_42.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\necromancer_50.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Revive.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\ShiverArmor.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Shout.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Slow Missiles.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Venom.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Werebear.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Images\Skills\Werewolf.jpg
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Sounds\complete.wav
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\D2RSO.exe
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\D2RSO.deps.json
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\D2RSO.runtimeconfig.json
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\D2RSO.runtimeconfig.dev.json
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\D2RSO.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\D2RSO.pdb
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\ControlzEx.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Hardcodet.NotifyIcon.Wpf.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\MahApps.Metro.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\SharpDX.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\SharpDX.DirectInput.dll
+D:\1\d2rso_1\d2rso\D2RSO\bin\Debug\net5.0-windows\de\MahApps.Metro.resources.dll
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.csproj.AssemblyReference.cache
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\Controls\OptionsDialog.g.cs
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\CountersWindow.g.cs
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\App.g.cs
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO_MarkupCompile.cache
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO_MarkupCompile.lref
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\App.baml
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\Controls\OptionsDialog.baml
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\CountersWindow.baml
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\MainWindow.baml
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\SharedDictionary.baml
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.g.resources
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.GeneratedMSBuildEditorConfig.editorconfig
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.AssemblyInfoInputs.cache
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.AssemblyInfo.cs
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.csproj.CoreCompileInputs.cache
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.csproj.Up2Date
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.dll
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\refint\D2RSO.dll
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.pdb
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\D2RSO.genruntimeconfig.cache
+D:\1\d2rso_1\d2rso\D2RSO\obj\Debug\net5.0-windows\ref\D2RSO.dll
